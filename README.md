@@ -1,2 +1,2 @@
 # qte-by-outcome
-Quantile treatment effect transformed on the scale of the outcome value
+Quantile treatment effect transformed to the scale of the outcome value
