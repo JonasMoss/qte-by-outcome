@@ -1,2 +1,2 @@
 # qte-by-outcome
-Quantile treatment effect transformed to the scale of the outcome value
+Quantile treatment effect as a function of outcome value in control group using bootstrap
